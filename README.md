@@ -1,31 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Your SMP Name</title>
-<style>
-body {
-  font-family: Arial;
-  background: #1e1e1e;
-  color: white;
-  text-align: center;
-}
-
-.container {
-  width: 700px;
-  margin: auto;
-}
-
-button {
-  background: #4CAF50;
-  border: none;
-  padding: 15px 25px;
-  color: white;
-  font-size: 16px;
-  margin: 10px;
-  cursor: pointer;
-}
-</style>
-</head>
 
 <body>
 
